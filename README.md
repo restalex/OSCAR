@@ -8,6 +8,7 @@ Commandes pour être bon sur les passages git/github:
 
 git checkout nomdelabranche                               
 #permet de se situer sur la branche qu'on veut changer
+
 git pull                                                 
 #permet d'être à jour par rapport à la branche github (evite les conflits)
 
