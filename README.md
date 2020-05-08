@@ -8,7 +8,7 @@ Commandes pour être bon sur les passages git/github:
 git checkout nomdelabranche                               #permet de se situer sur la branche qu'on veut changer
 git pull                                                  #permet d'être à jour par rapport à la branche github (evite les conflits)
 
-# vous pouvez commencer vos modifications
+vous pouvez commencer vos modifications
 Ensuite pour envoyer vos modifs sur Github:
 git add                                                   #stage les modifs et ajouts de fichiers (argument -u pour juste les modifés et       
                                                           #supprimés et arg A pour tout les changements)
