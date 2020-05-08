@@ -4,7 +4,7 @@ train -> apprentissage (apprendre les règles de décision) et donc test -> test
 Test  differentes morphologies pour l'alphabet sous matlab 
 
 
-Commandes pour être bon sur les passages git/github:
+Commandes pour être bon sur les passages git/github:\n
 git checkout nomdelabranche                               
 #permet de se situer sur la branche qu'on veut changer
 git pull                                                 
