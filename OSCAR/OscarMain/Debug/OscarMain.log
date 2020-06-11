@@ -1,0 +1,5 @@
+﻿  OscarMain.c
+d:\alexis\documents\oscar\oscar\oscarmain\oscarmain.c(258): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+d:\alexis\documents\oscar\oscar\oscarmain\oscarmain.c(246): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  OscarMain.vcxproj -> D:\Alexis\Documents\OSCAR\OSCAR\Debug\OscarMain.exe
+  OscarMain.vcxproj -> D:\Alexis\Documents\OSCAR\OSCAR\Debug\OscarMain.pdb (Full PDB)
