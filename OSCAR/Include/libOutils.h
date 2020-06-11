@@ -1,4 +1,5 @@
 /*Bibliothèque de traitement d'images*/
+//commentaire
 
 #pragma once
 #include <stdlib.h>
